@@ -8,10 +8,10 @@
 		<version>3.5.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mahdiyounes.bank</groupId>
+	<groupId>com.TpBankati.bank</groupId>
 	<artifactId>bank-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mahdi-younes-bank</name>
+	<name>TpBankati</name>
 	<description>Application web de gestion bancaire.</description>
 	<url/>
 	<licenses>
