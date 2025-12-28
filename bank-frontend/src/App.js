@@ -12,6 +12,7 @@ import CompteList from './pages/agent/CompteList';
 import AgentDashboard from './pages/agent/AgentDashboard';
 import Dashboard from './pages/client/Dashboard';
 import Virement from './pages/client/Virement';
+import DebitCompte from './pages/agent/DebitCompte';
 
 function App() {
   return (
@@ -33,6 +34,13 @@ function App() {
             <ProtectedRoute requiredRole="AGENT_GUICHET">
               <Layout>
                 <AgentDashboard />
+              </Layout>
+            </ProtectedRoute>
+          } />
+          <Route path="/agent/debit-compte" element={
+            <ProtectedRoute requiredRole="AGENT_GUICHET">
+              <Layout>
+                <DebitCompte />
               </Layout>
             </ProtectedRoute>
           } />

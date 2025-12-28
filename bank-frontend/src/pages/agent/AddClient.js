@@ -234,12 +234,12 @@ const AddClient = () => {
           </div>
         </form>
 
-        <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
+        {/*<div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
           <p className="text-sm text-blue-800">
             <strong>Note :</strong> Les identifiants de connexion (login et mot de passe) 
             seront générés automatiquement et envoyés par email au client.
           </p>
-        </div>
+        </div>*/}
       </div>
     </div>
   );

@@ -244,11 +244,11 @@ const AddAccount = () => {
           </div>
         </form>
 
-        <div className="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+       {/* <div className="mt-6 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
           <p className="text-sm text-yellow-800">
             <strong>Note :</strong> Le compte sera créé avec le statut "Ouvert" et un solde initial de 0.00 DH.
           </p>
-        </div>
+        </div>*/}
       </div>
     </div>
   );
