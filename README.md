@@ -1332,39 +1332,7 @@ BankatiApp/
 - **services/** : Communication avec l'API
 - **utils/** : Fonctions utilitaires
 
-## 📸 Captures d'écran
 
-### 1. Page de connexion
-![Login Page](docs/screenshots/login.png)
-*Interface de connexion avec validation (RG_2)*
-
-### 2. Dashboard AGENT_GUICHET
-![Agent Dashboard](docs/screenshots/agent-dashboard.png)
-*Vue d'ensemble pour les agents*
-
-### 3. Création de client
-![Add Client](docs/screenshots/add-client.png)
-*Formulaire de création de client (UC-2, RG_4-RG_7)*
-
-### 4. Création de compte
-![Add Account](docs/screenshots/add-account.png)
-*Formulaire de création de compte bancaire (UC-3, RG_8-RG_10)*
-
-### 5. Dashboard CLIENT
-![Client Dashboard](docs/screenshots/client-dashboard.png)
-*Tableau de bord client avec comptes et opérations (UC-4)*
-
-### 6. Nouveau virement
-![Virement](docs/screenshots/virement.png)
-*Formulaire de virement (UC-5, RG_11-RG_15)*
-
-### 7. Changement de mot de passe
-![Change Password](docs/screenshots/change-password.png)
-*Interface de modification du mot de passe (RG_1)*
-
-### 8. Email credentials
-![Email](docs/screenshots/email-credentials.png)
-*Email automatique envoyé au client (RG_7)*
 
 ## 🧪 Tests
 
@@ -1519,15 +1487,15 @@ Checklist de validation :
 
 ## 👥 Auteurs
 
-**Binôme** :
-- [Prénom1 NOM1] - [email1@example.com]
-- [Prénom2 NOM2] - [email2@example.com]
+
+- [Hamza Benaghmouch] - [hamzabeng64@gmail.com]
+
 
 **Professeur** :
-- [Nom du professeur]
+- [Abdelilah Hssaini]
 
 **Établissement** :
-- [Nom de l'école/université]
+- [EMSI]
 
 ## 📄 Licence
 
@@ -1535,7 +1503,7 @@ Ce projet a été réalisé dans un cadre académique pour le module Architectur
 
 ## 🙏 Remerciements
 
-- Professeur [Nom] pour l'encadrement et les conseils
+- Professeur [Abdelilah Hssaini] pour l'encadrement et les conseils
 - L'équipe enseignante pour les ateliers pratiques
 - La documentation Spring Boot et React
 
@@ -1545,9 +1513,8 @@ Ce projet a été réalisé dans un cadre académique pour le module Architectur
 
 Pour toute question concernant ce projet :
 
-- **Email** : [votre-email@example.com]
-- **GitHub Issues** : [Lien vers les issues]
-- **Documentation** : [Lien vers la doc complète]
+- **Email** : [hamzabeng64@gmail.com]
+
 
 ---
 
