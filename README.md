@@ -1488,14 +1488,14 @@ Checklist de validation :
 ## 👥 Auteurs
 
 
-- [Hamza Benaghmouch] - [hamzabeng64@gmail.com]
+- Hamza Benaghmouch - [hamzabeng64@gmail.com]
 
 
 **Professeur** :
-- [Abdelilah Hssaini]
+- Abdelilah Hssaini
 
 **Établissement** :
-- [EMSI]
+- EMSI
 
 ## 📄 Licence
 
@@ -1534,7 +1534,7 @@ Pour toute question concernant ce projet :
 
 ---
 
-**Date de dernière mise à jour** : Janvier 2025  
+**Date de dernière mise à jour** : Janvier 2026  
 **Version** : 1.0.0  
 **Statut** : ✅ Projet terminé et validé
 
